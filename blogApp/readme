@@ -1,0 +1,10 @@
+1. Made an backend routes for blog app .
+2. Its contains all posts related data .
+
+Routes : 
+
+1. createPost
+2. createComment
+3. getAllPosts
+4. likePost
+5. UnlikePost 
